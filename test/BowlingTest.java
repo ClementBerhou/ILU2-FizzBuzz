@@ -1,12 +1,14 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.BeforeEach;
 
 class BowlingTest {
 
-	@Test
-	void test() {
-		fail("Not yet implemented");
+	Bowling lancer;
+	void testRienTombe() {
+		assertEquals(0,)
 	}
 
 }
